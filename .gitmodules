@@ -1,0 +1,3 @@
+[submodule "multimodal_emg_repo"]
+	path = multimodal_emg_repo
+	url = https://github.com/hahnec/multimodal_emg

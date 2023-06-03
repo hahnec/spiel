@@ -1,0 +1,22 @@
+fpath: dataset/train_val
+model_path: ckpts/spiel_net_epoch_48_memg.pt
+
+epochs: 100
+batch_size: 1
+lr: 0.0005
+device: 'cpu'
+bce_weight: 10.0
+bg_subtract: 1
+max_iter: 20
+max_iter_train: 50
+echo_thresh: 7
+echo_thresh_train: 20
+toa_offset: -1
+pow_law_opt: False
+
+plot_opt: False
+logging: False
+
+ablation_mlp: False
+ablation_contrastive: False
+ablation_memg: False
