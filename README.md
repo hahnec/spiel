@@ -5,7 +5,8 @@
 <p align="center"><strong>ICRA'23, London, UK</strong></p>
 <br>
 
-![preview](https://user-images.githubusercontent.com/33809838/233854687-1fbf6ac4-91e6-4640-908d-a66c4beff66e.png)
+
+[![preview](https://user-images.githubusercontent.com/33809838/233854687-1fbf6ac4-91e6-4640-908d-a66c4beff66e.png)](https://arxiv.org/abs/2306.08281)
 
 
 ## Installation
@@ -32,8 +33,11 @@ Training of the MLP is done with
 $ python train_spiel.py
 ```
 
-## Citation
+## Paper
+
 If you use this project for any academic work, please cite the original paper.
+
+[![arXiv paper link](https://img.shields.io/badge/paper-arXiv:2306.08281-red)](https://arxiv.org/pdf/2306.08281.pdf)
 ```
 @inproceedings{spiel:icra23,
   title={3-Dimensional Sonic Phase-invariant Echo Localization},
