@@ -35,7 +35,7 @@ $ python train_spiel.py
 
 ## Paper
 
-If you use this project for any academic work, please cite the original paper.
+If you use this project for your work, please cite the original paper:
 
 [![arXiv paper link](https://img.shields.io/badge/paper-arXiv:2306.08281-red)](https://arxiv.org/pdf/2306.08281.pdf)
 ```
@@ -44,6 +44,8 @@ If you use this project for any academic work, please cite the original paper.
   author={Hahne, Christopher},
   booktitle = {Proceedings of the IEEE International Conference on Robotics and Automation (ICRA)},
   year={2023}
+  pages={4121-4127},
+  doi={10.1109/ICRA48891.2023.10161199}
 }
 ```
 
